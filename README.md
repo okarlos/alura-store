@@ -6,7 +6,9 @@ Alura Store 🎓
 
 Premissas do curso:
 ---
-* Em andamento.
+* Criar um site, utilizando layout GRID do CSS;
+* O site possui 4 sessões principais: cabeçalho, destaques, aplicativos e rodapé;
+* O projeto foi iniciado utilizando HTML/CSS e assets pré-definidos.
 
 Extras:
 ---
